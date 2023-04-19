@@ -12,12 +12,12 @@
 2. Health bot
 </br>
 
-**Project Link** - `https://lemon-mud-075554b00.3.azurestaticapps.net/` </br>
+**Project Link** - [`https://lemon-mud-075554b00.3.azurestaticapps.net/`](https://lemon-mud-075554b00.3.azurestaticapps.net/) </br>
 **Project Demo Video Link** - `https://youtu.be/bJHkMecwaLM`
 
 </br></br>
 
-## The website has following **`Features`** and **`Functionalities`** 😃
+## The website has following **`Features`** and **`Functionalities`** 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
