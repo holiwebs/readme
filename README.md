@@ -1,48 +1,65 @@
-# ✨ Telugu Health  ✨
+# **FRT-Project:✨Hospital Information Management System✨**
 
-This is a web based application developed for health related telugu based website in india
+**_`This is the final project submitted for the completion of Microsoft Future Ready Talent Virtual Internship.`_**
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+- This is a web based application developed for health  related problems 
+- This web based Hospital Information Management System  application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,
+  Quess, Github and EY.
+</br>
 
+## **`Azure technologies`** used For this Project
+1. Static Web Apps
+2. Health bot
+</br>
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - `https://lemon-mud-075554b00.3.azurestaticapps.net/` </br>
+**Project Demo Video Link** - `https://youtu.be/bJHkMecwaLM`
 
+</br></br>
 
-## Features and Functionalities 😃
+## The website has following **`Features`** and **`Functionalities`** 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Has collection of many web pages including Home,Medical Record,Patient's Registration, Contact Us, Health Bot related information etc.
+- User can know about Health related problems   through this website.
+- Included the Health Bot to know Health related issues from the AI-powered virtual health assistants
+</br>
 
-## Screenshots
+## SCREENSHOTS 📸
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+### `Home Page`
+
+![Home](https://user-images.githubusercontent.com/81211134/228790309-17b708f4-bd25-4bdc-9f04-d8078d5a5085.png)
+
+### `About`
+
+![About](https://user-images.githubusercontent.com/81211134/228790554-6eec393e-5402-4de1-b65d-6e1888370635.png)
+
+### `Contact Us`
+
+![Contactus2](https://user-images.githubusercontent.com/81211134/228791184-71eda816-7b5f-4b91-b140-9ae37cd9bf60.png)
+
+### `Gallery`
+
+![Gallery2](https://user-images.githubusercontent.com/81211134/228791609-facd368c-21df-407e-88be-a55c1ac8cbb8.png)
+
+### `Service`
+
+![Service](https://user-images.githubusercontent.com/81211134/228791677-45ed7bca-29b1-422d-b02a-488784c45d16.png)
+
+### `Healthbot`
+
+![Healthbot](https://user-images.githubusercontent.com/81211134/228791779-7114e6c6-862d-4e8b-8547-938a7ae2467e.png)
+</br>
 
 
+## TECH STACK 💻
 
-   
-
-### About Us -
-
-
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
-
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
-
-
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Azure (Hosting)
+- GitHub
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
+
